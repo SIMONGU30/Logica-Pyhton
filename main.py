@@ -70,3 +70,4 @@ else:
     print("es falso")
 
 print("es verdadero")if estaLLoviendo==False else print("es Falso")
+
